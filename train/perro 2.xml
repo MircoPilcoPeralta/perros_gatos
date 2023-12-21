@@ -1,0 +1,25 @@
+<annotation>
+	<folder></folder>
+	<filename>perro 2.jpg</filename>
+	<path>./perro 2.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>perro</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>23</ymin>
+			<xmax>264</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>
